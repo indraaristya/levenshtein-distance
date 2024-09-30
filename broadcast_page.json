@@ -1,0 +1,67 @@
+{
+  "recipient_menu": {
+    "tag": "p",
+    "id": null,
+    "type": null,
+    "class": null,
+    "name": null,
+    "aria-autocomplete": null,
+    "title": null,
+    "href": null,
+    "text": "Recipient",
+    "value": null,
+    "aria-label": null
+  },
+  "button_create_recipient": {
+    "tag": "button",
+    "id": "popover-id-vcm-trigger",
+    "type": "button",
+    "class": null,
+    "name": null,
+    "aria-autocomplete": null,
+    "title": null,
+    "href": null,
+    "text": "Create recipient list",
+    "value": null,
+    "aria-label": null
+  },
+  "input_search_recipient": {
+    "tag": "input",
+    "id": null,
+    "type": "text",
+    "class": null,
+    "name": null,
+    "aria-autocomplete": null,
+    "title": null,
+    "href": null,
+    "text": "Search recipient list",
+    "value": null,
+    "aria-label": null
+  },
+  "template_menu": {
+    "tag": "p",
+    "id": null,
+    "type": null,
+    "class": null,
+    "name": null,
+    "aria-autocomplete": null,
+    "title": null,
+    "href": null,
+    "text": "Template message",
+    "value": null,
+    "aria-label": null
+  },
+  "input_search_template": {
+    "tag": "input",
+    "id": null,
+    "type": "text",
+    "class": null,
+    "name": null,
+    "aria-autocomplete": null,
+    "title": null,
+    "href": null,
+    "text": "Search template name",
+    "value": "Search template name",
+    "aria-label": null
+  }
+}
